@@ -1,7 +1,7 @@
 # Numeros-primos
 Meu 1º repositório no github
 
-#include <stdio.h>
+include <stdio.h>
 int main()
     { 
       int n1,n2, x,y, i;
